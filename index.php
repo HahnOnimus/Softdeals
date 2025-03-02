@@ -17,13 +17,13 @@
         }
 
         .hero {
-            background-image: url('./images/banner.jpg');
+            background-image: url('./banner.jpg');
             background-size: cover;
             background-position: center;
         }
         
         .get-start {
-            background-image: url('./images/start.jpg');
+            background-image: url('./start.jpg');
             background-size: cover;
             background-position: center;
         }
@@ -122,7 +122,7 @@
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
                     <video class="card-img-top"  autoplay loop muted playsinline>
-                        <source src="./images/show-one.mp4" type="video/mp4">
+                        <source src="./show-one.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="card-body">
@@ -135,7 +135,7 @@
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
                     <video class="card-img-top"   autoplay loop muted playsinline>
-                        <source src="images/show-two.mp4" type="video/mp4">
+                        <source src="./show-two.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="card-body">
@@ -148,7 +148,7 @@
             <div class="col-md-4 mb-4">
                 <div class="card h-100">
                     <video class="card-img-top"   autoplay loop muted playsinline>
-                        <source src="images/show-three.mp4" type="video/mp4">
+                        <source src="./show-three.mp4" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="card-body">
@@ -170,7 +170,7 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./images/developer.jpg" class="card-img-top" alt="Feature 1">
+                        <img src="./developer.jpg" class="card-img-top" alt="Feature 1">
                         <div class="card-body">
                             <h5 class="card-title">Software Development</h5>
                             <p class="card-text">A full fledged mobile app (Android & iOS) to showcase your products, a landing page website to give visitors information about your products and an admin dashboard web application to manage everything!</p>
@@ -179,7 +179,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./images/design.jpg" class="card-img-top" alt="Feature 2">
+                        <img src="./design.jpg" class="card-img-top" alt="Feature 2">
                         <div class="card-body">
                             <h5 class="card-title">Branding and Design</h5>
                             <p class="card-text">We handle all your designs - Logo, fonts, color themes, UI/UX and Branding.</p>
@@ -188,7 +188,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="./images/market.jpg" class="card-img-top" alt="Feature 3">
+                        <img src="./market.jpg" class="card-img-top" alt="Feature 3">
                         <div class="card-body">
                             <h5 class="card-title">Marketing</h5>
                             <p class="card-text">Your products need awareness! Everything you need to launch your product online on social media.</p>
@@ -209,28 +209,28 @@
         <div class="carousel-container position-relative">
             <div class="carousel-track d-flex align-items-center">
                 <!-- 10 Unique Images -->
-                <img src="images/slide-one.jpg" class="d-block mx-3" alt="Partner 1">
-                <img src="images/slide-two.jpg" class="d-block mx-3" alt="Partner 2">
-                <img src="images/slide-three.jpg" class="d-block mx-3" alt="Partner 3">
-                <img src="images/slide-four.jpg" class="d-block mx-3" alt="Partner 4">
-                <img src="images/slide-five.jpg" class="d-block mx-3" alt="Partner 5">
-                <img src="images/slide-six.jpg" class="d-block mx-3" alt="Partner 6">
-                <img src="images/slide-seven.jpg" class="d-block mx-3" alt="Partner 7">
-                <img src="images/slide-eight.jpg" class="d-block mx-3" alt="Partner 8">
-                <img src="images/slide-nine.jpg" class="d-block mx-3" alt="Partner 9">
-                <img src="images/slide-ten.jpg" class="d-block mx-3" alt="Partner 10">
+                <img src="./slide-one.jpg" class="d-block mx-3" alt="Partner 1">
+                <img src="./slide-two.jpg" class="d-block mx-3" alt="Partner 2">
+                <img src="./slide-three.jpg" class="d-block mx-3" alt="Partner 3">
+                <img src="./slide-four.jpg" class="d-block mx-3" alt="Partner 4">
+                <img src="./slide-five.jpg" class="d-block mx-3" alt="Partner 5">
+                <img src="./slide-six.jpg" class="d-block mx-3" alt="Partner 6">
+                <img src="./slide-seven.jpg" class="d-block mx-3" alt="Partner 7">
+                <img src="./slide-eight.jpg" class="d-block mx-3" alt="Partner 8">
+                <img src="./slide-nine.jpg" class="d-block mx-3" alt="Partner 9">
+                <img src="./slide-ten.jpg" class="d-block mx-3" alt="Partner 10">
                 
                 <!-- Duplicate Images for Infinite Loop -->
-                <img src="images/slide-one.jpg" class="d-block mx-3" alt="Partner 1">
-                <img src="images/slide-two.jpg" class="d-block mx-3" alt="Partner 2">
-                <img src="images/slide-three.jpg" class="d-block mx-3" alt="Partner 3">
-                <img src="images/slide-four.jpg" class="d-block mx-3" alt="Partner 4">
-                <img src="images/slide-five.jpg" class="d-block mx-3" alt="Partner 5">
-                <img src="images/slide-six.jpg" class="d-block mx-3" alt="Partner 6">
-                <img src="images/slide-seven.jpg" class="d-block mx-3" alt="Partner 7">
-                <img src="images/slide-eight.jpg" class="d-block mx-3" alt="Partner 8">
-                <img src="images/slide-nine.jpg" class="d-block mx-3" alt="Partner 9">
-                <img src="images/slide-ten.jpg" class="d-block mx-3" alt="Partner 10">
+                <img src="./slide-one.jpg" class="d-block mx-3" alt="Partner 1">
+                <img src="./slide-two.jpg" class="d-block mx-3" alt="Partner 2">
+                <img src="./slide-three.jpg" class="d-block mx-3" alt="Partner 3">
+                <img src="./slide-four.jpg" class="d-block mx-3" alt="Partner 4">
+                <img src="./slide-five.jpg" class="d-block mx-3" alt="Partner 5">
+                <img src="./slide-six.jpg" class="d-block mx-3" alt="Partner 6">
+                <img src="./slide-seven.jpg" class="d-block mx-3" alt="Partner 7">
+                <img src="./slide-eight.jpg" class="d-block mx-3" alt="Partner 8">
+                <img src="./slide-nine.jpg" class="d-block mx-3" alt="Partner 9">
+                <img src="./slide-ten.jpg" class="d-block mx-3" alt="Partner 10">
                 
             </div>
         </div>
@@ -337,7 +337,7 @@
         <div class="card mx-auto" style="max-width: 800px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); border: none;">
             <div class="row g-0 align-items-center">
                 <div class="col-md-4 text-center">
-                    <img src="./images/why-us.jpg" alt="Why Choose Us" class="img-fluid rounded-start">
+                    <img src="./why-us.jpg" alt="Why Choose Us" class="img-fluid rounded-start">
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
